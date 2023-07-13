@@ -1,10 +1,10 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  background: #a501b1;
+  background: -webkit-linear-gradient(to right, #333399, #a501b1);
+  background: linear-gradient(to right, #333399, #a501b1);
+  font-family: 'Poppins', sans-serif;
 }
 
 code {

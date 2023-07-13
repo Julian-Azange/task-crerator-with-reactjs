@@ -1,0 +1,40 @@
+{
+    "todos": [
+        {
+            "title": "Task 1",
+            "responsibility": "Azange",
+            "description": "This is a task",
+            "priority": "Low"
+        },
+        {
+            "title": "Task 2",
+            "responsibility": "Julian", 
+            "description": "This is a task",
+            "priority": "Medium"
+        },
+        {
+            "title": "Task 3",
+            "responsibility": "Maria", 
+            "description": "This is a task",
+            "priority": "Low"
+        },
+        {
+            "title": "Task 4",
+            "responsibility": "Angelica", 
+            "description": "This is a task",
+            "priority": "High"
+        },
+        {
+            "title": "Task 5",
+            "responsibility": "Honnatan", 
+            "description": "This is a task",
+            "priority": "Medium"
+        },
+        {
+            "title": "Task 6",
+            "responsibility": "Arnold", 
+            "description": "This is a task",
+            "priority": "Low"
+        }
+    ]
+}
